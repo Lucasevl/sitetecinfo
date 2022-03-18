@@ -4,3 +4,7 @@ h1{
 li{
     front-family: monospace;
 }
+body{
+    width: 50%;
+    margin: auto;
+}
